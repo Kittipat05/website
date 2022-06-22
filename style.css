@@ -1,0 +1,30 @@
+body {
+    background-image: URL('https://wallpapersmug.com/download/1920x1080/761f4e/galaxy-space-stars-5k.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  header {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 70px;
+    padding: 10px;
+  }
+
+  footer {
+    background-color: rgb(41, 0, 95);
+    color: rgb(255, 255, 255);
+    height: 70px;
+    padding: 10px;
+    text-align: center;
+  }
+
+.mainpage {
+    width: 1024px;
+    margin: 0 auto;
+  }
+
+  .headname {
+      color: rgb(183, 0, 255);
+  }
